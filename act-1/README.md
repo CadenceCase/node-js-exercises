@@ -3,7 +3,7 @@
 Exercise to explore Node's [FileSystem API][filesystem-api].
 
 ### Getting Started
-- Create a file called `act1.js`, which you are going to execute via `node`.
+- Edit the file `act1.js` which will be used to run the program.
 - You are free to organize your code into multiple files as you choose fit.
 
 
