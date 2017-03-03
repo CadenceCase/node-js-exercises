@@ -1,7 +1,6 @@
 ## Act 1
 
-### Description
-We will use a dataset of various cereals, and write a function to group the cereals based on their sugar content. You will primarily make use of Node's [FileSystem API][filesystem-api].
+Exercise to explore Node's [FileSystem API][filesystem-api].
 
 ### Getting Started
 - Create a file called `act1.js`, which you are going to execute via `node`.
